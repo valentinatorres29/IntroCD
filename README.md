@@ -1,6 +1,7 @@
 # Tarea 1 - Introducción a la Ciencia de Datos
 
 **Autoras:** Natalia Fitipaldi y Valentina Torres
+
 **Curso:** Introducción a la Ciencia de Datos - FING, UdelaR
 
 ## Descripción
