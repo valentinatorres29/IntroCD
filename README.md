@@ -15,7 +15,3 @@ The Hill, The New York Times).
 - `tarea1.ipynb` — Notebook con todo el código utilizado para responder las preguntas
 
 
-## Cómo reproducir el análisis
-
-El notebook se ejecuta de principio a fin. Requiere las siguientes librerías:
-pandas, numpy, matplotlib, seaborn, networkx.
